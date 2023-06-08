@@ -1,1 +1,1 @@
-# CI3661-LabLengDeProg
+# CI3661 - Laboratorio de Lenguajes de Programación I
