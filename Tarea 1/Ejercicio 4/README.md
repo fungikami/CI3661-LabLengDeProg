@@ -4,15 +4,15 @@
 
 #### Compile
 ```
-ghc -o ./a ./Main.hs
+ghc -o ./huffman ./Main.hs
 ```
 
 #### Encode a example file
 ```
-./a -c Example/a.txt
+./huffman -c examples/a.txt
 ```
 
 #### Decode a example file
 ```
-./a -d Example/b.hz
+./huffman -d examples/b.hz
 ```
